@@ -7,11 +7,11 @@ http://docs.voltaapi.com/api/#get--stations.
 Build an interface that exposes this data in whatever form you like.
 
 ### Requirements
-- Spend no more than a couple of hours on this, focus on one feature is a plus
-- Deliver in a method that is easy for us to consume
+- Don't spend too much time on this, focusing on one feature is a plus
+- Delivery in a product that is easy for us to consume
 - Commit history showing your thought/development process is always interesting
 
-If you have any questions do not hesitate to reach out via email or phone. In consideration of your schedule, take as long as you need to return the challenge. 
+If you have any questions do not hesitate to reach out via email or phone. In consideration of your schedule, take as long as you need to return the challenge.
 
 ### Some examples/ideas for inspiration:
 - Display the stations on a map
@@ -23,6 +23,3 @@ We don't spend much time reinventing wheels here at Volta. Depending on the mean
 
 Conversely, if you already have a tool or library in mind: show off your skills by using something you know when to provide new insight into our data. Engineering hours are expensive so we like to find a middle-ground between correctness and efficiency.
 
-## Solutions
-> Make a PR to add your solution to this list if you would like to have it publicly posted
-- Nothing here yet!

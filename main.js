@@ -18,6 +18,7 @@ var theData = fetch(baseurl + 'stations')
     return response.json();
   })
   .then(function(myJson) {
+    console.log(myJson)
     for (var i=0; i < myJson.length; i++) {
       if (myJson[i].status === "active") {
         greenOrRed = "green";
@@ -29,7 +30,8 @@ var theData = fetch(baseurl + 'stations')
           color: greenOrRed,
           fillColor: greenOrRed,
           fillOpacity: .3,
-          radius: 5
-      }).addTo(mymap);
+          radius: 6
+        }).addTo(mymap).bindPopup("<center>" + myJson[i].name 
+        + "<br>" + "Station ID: " + myJson[i].id + "</center>");
     }
   });

@@ -1,3 +1,7 @@
+For my challenge, I put all of the stations on a map, marking them as green or red based on whether their status is active or in need of maintainence. Clicking on a station displays basic info about the station. Then, I dockerized the application and deployed the docker container on an AWS EC2 instance. 
+
+
+
 # Volta Code Challenge
 > The goal of this challenge is to demonstrate your skills, with a tool of your choice, taking data and turning it into something meaningful.
 

@@ -1,4 +1,7 @@
-For my challenge, I put all of the stations on a map, marking them as green or red based on whether their status is active or in need of maintainence. Clicking on a station displays basic info about the station. Then, I dockerized the application and deployed the docker container on an AWS EC2 instance. 
+For my challenge, I put all of the stations on a map, marking them as green or red based on whether their status is active or in need of maintenance. Clicking on a station displays basic info about the station. Then, I dockerized the application and deployed the docker container on an AWS EC2 instance. 
+
+Available here: 
+http://ec2-35-167-64-212.us-west-2.compute.amazonaws.com/
 
 
 
